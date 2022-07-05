@@ -10,11 +10,11 @@
 
 <h3>Connect with me:</h3>
 
-[![website](./img/globe-light.svg)](https://kenyokohama.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://kenyokohama.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://kenyokohama.com/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://kenyokohama.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://ph.linkedin.com/in/ken-yokohama-bba021179)
-[![website](./img/linkedin-dark.svg)](https://ph.linkedin.com/in/ken-yokohama-bba021179)
+[![website](./img/linkedin-light.svg)](https://ph.linkedin.com/in/ken-yokohama-bba021179#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://ph.linkedin.com/in/ken-yokohama-bba021179#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/kenyokohama/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/kenyokohama/#gh-dark-mode-only)
