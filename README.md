@@ -1,6 +1,6 @@
 # Hi there, I'm Ken Yokohama - aka [Dev Ken](https://kenyokohama.com/) 👋
 
-<h3 align="left">I'm a Civil Engineer | Software Engineer!</h3>
+<h3 align="left">I'm a Civil Engineer | Software Engineer | Full Stack Developer!</h3>
 
 -   :mortar_board: Licensed Engineer & DLSU Graduate
 -   :telescope: Currently working on the Frontend of a private business
