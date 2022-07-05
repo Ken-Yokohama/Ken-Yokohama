@@ -37,8 +37,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node.js" width="40" height="40"/>
     <!-- Firebase -->
     <img src="https://cdn.svgporn.com/logos/firebase.svg" alt="firebase" width="40" height="40"/>
-    <!-- PostgreSQL -->
-    <img src="https://cdn.svgporn.com/logos/postgresql.svg?response-content-disposition=attachment%3Bfilename%3Dpostgresql.svg" alt="postgresql" width="40" height="40"/>
+    <!-- MongoDB -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongoDb" width="40" height="40"/>
     <br></br>
     <!-- Material UI -->
     <img src="https://cdn.svgporn.com/logos/material-ui.svg?response-content-disposition=attachment%3Bfilename%3Dmaterial-ui.svg" alt="material ui" width="40" height="40"/>
@@ -52,11 +52,19 @@
     <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg?response-content-disposition=attachment%3Bfilename%3Dvisual-studio-code.svg" alt="visual studio code" width="40" height="40"/>
     <!-- Git -->
     <img src="https://cdn.svgporn.com/logos/git-icon.svg?response-content-disposition=attachment%3Bfilename%3Dgit-icon.svg" alt="git" width="40" height="40"/>
-    <!-- Adobe Illustrator -->
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-    <!-- Adobe XD -->
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="adobe xd" width="40" height="40"/>
-  </span>
+    <!-- Github -->
+    <!-- <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> -->
+    <!-- Terminal -->
+    <!-- <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="adobe xd" width="40" height="40"/> -->
+
+    [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://kenyokohama.com/about#gh-dark-mode-only)
+    [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://kenyokohama.com/about#gh-light-mode-only)
+    [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://kenyokohama.com/about#gh-light-mode-only)
+    [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://kenyokohama.com/about#gh-dark-mode-only)
+    <br>
+
+</span>
+
 </p>
 
 <h3>In the works:</h3>
