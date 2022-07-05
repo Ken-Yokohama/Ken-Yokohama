@@ -42,20 +42,20 @@
     <br></br>
     <!-- Material UI -->
     <img src="https://cdn.svgporn.com/logos/material-ui.svg?response-content-disposition=attachment%3Bfilename%3Dmaterial-ui.svg" alt="material ui" width="40" height="40"/>
-    <!-- Amazon AWS -->
-    <img src="https://cdn.svgporn.com/logos/aws.svg?response-content-disposition=attachment%3Bfilename%3Daws.svg" alt="aws" width="40" height="40"/>
-    <!-- Jupyter -->
-    <img src="https://cdn.svgporn.com/logos/jupyter.svg?response-content-disposition=attachment%3Bfilename%3Djupyter.svg" alt="jupyter" width="40" height="40" />
-    <!-- Tensorflow -->
-    <img src="https://cdn.svgporn.com/logos/tensorflow.svg?response-content-disposition=attachment%3Bfilename%3Dtensorflow.svg" alt="tensorflow" width="40" height="40"/>
+    <!-- Redux -->
+    <img src="https://cdn.svgporn.com/logos/redux.svg" alt="redux" width="40" height="40"/>
+    <!-- Jest -->
+    <img src="https://cdn.svgporn.com/logos/jest.svg" alt="jest" width="40" height="40" />
+    <!-- Tailwind -->
+    <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
     <!-- VS Code -->
     <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg?response-content-disposition=attachment%3Bfilename%3Dvisual-studio-code.svg" alt="visual studio code" width="40" height="40"/>
     <!-- Git -->
     <img src="https://cdn.svgporn.com/logos/git-icon.svg?response-content-disposition=attachment%3Bfilename%3Dgit-icon.svg" alt="git" width="40" height="40"/>
-    <!-- Adobe Illustrator -->
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-    <!-- Adobe XD -->
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="adobe xd" width="40" height="40"/>
+    <!-- Bootstrap -->
+    <img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="bootstrap" width="40" height="40"/>
+    <!-- Figma -->
+    <img src="https://cdn.svgporn.com/logos/figma.svg" alt="figma" width="40" height="40"/>
   </span>
 </p>
 
@@ -65,21 +65,25 @@
   <span>
     <!-- Next.JS -->
     <img
-    src="https://cdn.svgporn.com/logos/graphql.svg?response-content-disposition=attachment%3Bfilename%3Dgraphql.svg"
-    alt="graphql" width="40" height="40"/>
+    src="https://cdn.svgporn.com/logos/nextjs-icon.svg"
+    alt="nextjs" width="40" height="40"/>
     <!-- Svelte -->
     <img
-    src="https://cdn.svgporn.com/logos/terraform-icon.svg?response-content-disposition=attachment%3Bfilename%3Dterraform-icon.svg"
-    alt="terraform" width="40" height="40" />
+    src="https://cdn.svgporn.com/logos/svelte-icon.svg"
+    alt="svelte" width="40" height="40" />
     <!-- MySql -->
     <img src="https://cdn.svgporn.com/logos/netlify.svg?response-content-disposition=attachment%3Bfilename%3Dnetlify.svg" alt="netlify" width="40" height="40" />
     <!-- Vite -->
     <img
-    src="https://cdn.svgporn.com/logos/namecheap.svg?response-content-disposition=attachment%3Bfilename%3Dnamecheap.svg"
-    alt="namecheap" width="40" height="40" />
+    src="https://cdn.svgporn.com/logos/vitejs.svg"
+    alt="Vite" width="40" height="40" />
+    <!-- Vitest -->
+    <img
+    src="https://cdn.svgporn.com/logos/vitest.svg"
+    alt="vitest" width="40" height="40" />
     <!-- Deno -->
     <img
-    src="https://cdn.svgporn.com/logos/strapi-icon.svg?response-content-disposition=attachment%3Bfilename%3Dstrapi-icon.svg"
-    alt="strapi" width="40" height="40" />
+    src="https://cdn.svgporn.com/logos/deno.svg"
+    alt="deno" width="40" height="40" />
   </span>
 </p>
