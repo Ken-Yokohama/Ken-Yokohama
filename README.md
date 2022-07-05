@@ -48,14 +48,14 @@
     <img src="https://cdn.svgporn.com/logos/jest.svg" alt="jest" width="40" height="40" />
     <!-- Tailwind -->
     <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-    <!-- VS Code -->
-    <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg?response-content-disposition=attachment%3Bfilename%3Dvisual-studio-code.svg" alt="visual studio code" width="40" height="40"/>
-    <!-- Git -->
-    <img src="https://cdn.svgporn.com/logos/git-icon.svg?response-content-disposition=attachment%3Bfilename%3Dgit-icon.svg" alt="git" width="40" height="40"/>
     <!-- Bootstrap -->
     <img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="bootstrap" width="40" height="40"/>
     <!-- Figma -->
     <img src="https://cdn.svgporn.com/logos/figma.svg" alt="figma" width="40" height="40"/>
+    <!-- VS Code -->
+    <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg?response-content-disposition=attachment%3Bfilename%3Dvisual-studio-code.svg" alt="visual studio code" width="40" height="40"/>
+    <!-- Git -->
+    <img src="https://cdn.svgporn.com/logos/git-icon.svg?response-content-disposition=attachment%3Bfilename%3Dgit-icon.svg" alt="git" width="40" height="40"/>
   </span>
 </p>
 
@@ -65,14 +65,12 @@
   <span>
     <!-- Next.JS -->
     <img
-    src="https://cdn.svgporn.com/logos/nextjs-icon.svg"
+    src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"
     alt="nextjs" width="40" height="40"/>
     <!-- Svelte -->
     <img
     src="https://cdn.svgporn.com/logos/svelte-icon.svg"
     alt="svelte" width="40" height="40" />
-    <!-- MySql -->
-    <img src="https://cdn.svgporn.com/logos/netlify.svg?response-content-disposition=attachment%3Bfilename%3Dnetlify.svg" alt="netlify" width="40" height="40" />
     <!-- Vite -->
     <img
     src="https://cdn.svgporn.com/logos/vitejs.svg"
