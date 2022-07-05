@@ -24,38 +24,38 @@
 <p align="left">
   <span>
     <!-- HTML -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="26" height="26"/>
     <!-- CSS -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="26" height="26"/>
     <!-- JavaScript -->
-    <img src="https://cdn.svgporn.com/logos/javascript.svg?response-content-disposition=attachment%3Bfilename%3Djavascript.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://cdn.svgporn.com/logos/javascript.svg?response-content-disposition=attachment%3Bfilename%3Djavascript.svg" alt="javascript" width="26" height="26"/>
     <!-- Typescript -->
-    <img src="https://cdn.svgporn.com/logos/typescript-icon.svg?" alt="typescript" width="50" height="40"/>
+    <img src="https://cdn.svgporn.com/logos/typescript-icon.svg?" alt="typescript" width="26" height="26"/>
     <!-- React -->
-    <img src="https://cdn.svgporn.com/logos/react.svg?response-content-disposition=attachment%3Bfilename%3Dreact.svg" class="filter-green" alt="React" width="40" height="40"/>
+    <img src="https://cdn.svgporn.com/logos/react.svg?response-content-disposition=attachment%3Bfilename%3Dreact.svg" class="filter-green" alt="React" width="26" height="26"/>
     <!-- Node.js -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node.js" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node.js" width="26" height="26"/>
     <!-- Firebase -->
-    <img src="https://cdn.svgporn.com/logos/firebase.svg" alt="firebase" width="40" height="40"/>
+    <img src="https://cdn.svgporn.com/logos/firebase.svg" alt="firebase" width="26" height="26"/>
     <!-- PostgreSQL -->
-    <img src="https://cdn.svgporn.com/logos/postgresql.svg?response-content-disposition=attachment%3Bfilename%3Dpostgresql.svg" alt="postgresql" width="40" height="40"/>
+    <img src="https://cdn.svgporn.com/logos/postgresql.svg?response-content-disposition=attachment%3Bfilename%3Dpostgresql.svg" alt="postgresql" width="26" height="26"/>
     <br></br>
     <!-- Material UI -->
-    <img src="https://cdn.svgporn.com/logos/material-ui.svg?response-content-disposition=attachment%3Bfilename%3Dmaterial-ui.svg" alt="material ui" width="40" height="40"/>
+    <img src="https://cdn.svgporn.com/logos/material-ui.svg?response-content-disposition=attachment%3Bfilename%3Dmaterial-ui.svg" alt="material ui" width="26" height="26"/>
     <!-- Amazon AWS -->
-    <img src="https://cdn.svgporn.com/logos/aws.svg?response-content-disposition=attachment%3Bfilename%3Daws.svg" alt="aws" width="40" height="40"/>
+    <img src="https://cdn.svgporn.com/logos/aws.svg?response-content-disposition=attachment%3Bfilename%3Daws.svg" alt="aws" width="26" height="26"/>
     <!-- Jupyter -->
-    <img src="https://cdn.svgporn.com/logos/jupyter.svg?response-content-disposition=attachment%3Bfilename%3Djupyter.svg" alt="jupyter" width="40" height="40" />
+    <img src="https://cdn.svgporn.com/logos/jupyter.svg?response-content-disposition=attachment%3Bfilename%3Djupyter.svg" alt="jupyter" width="26" height="26" />
     <!-- Tensorflow -->
-    <img src="https://cdn.svgporn.com/logos/tensorflow.svg?response-content-disposition=attachment%3Bfilename%3Dtensorflow.svg" alt="tensorflow" width="40" height="40"/>
+    <img src="https://cdn.svgporn.com/logos/tensorflow.svg?response-content-disposition=attachment%3Bfilename%3Dtensorflow.svg" alt="tensorflow" width="26" height="26"/>
     <!-- VS Code -->
-    <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg?response-content-disposition=attachment%3Bfilename%3Dvisual-studio-code.svg" alt="visual studio code" width="40" height="40"/>
+    <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg?response-content-disposition=attachment%3Bfilename%3Dvisual-studio-code.svg" alt="visual studio code" width="26" height="26"/>
     <!-- Git -->
-    <img src="https://cdn.svgporn.com/logos/git-icon.svg?response-content-disposition=attachment%3Bfilename%3Dgit-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://cdn.svgporn.com/logos/git-icon.svg?response-content-disposition=attachment%3Bfilename%3Dgit-icon.svg" alt="git" width="26" height="26"/>
     <!-- Adobe Illustrator -->
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="26" height="26"/>
     <!-- Adobe XD -->
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="adobe xd" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="adobe xd" width="26" height="26"/>
   </span>
 </p>
 
@@ -66,20 +66,20 @@
     <!-- Next.JS -->
     <img
     src="https://cdn.svgporn.com/logos/graphql.svg?response-content-disposition=attachment%3Bfilename%3Dgraphql.svg"
-    alt="graphql" width="40" height="40"/>
+    alt="graphql" width="26" height="26"/>
     <!-- Svelte -->
     <img
     src="https://cdn.svgporn.com/logos/terraform-icon.svg?response-content-disposition=attachment%3Bfilename%3Dterraform-icon.svg"
-    alt="terraform" width="40" height="40" />
+    alt="terraform" width="26" height="26" />
     <!-- MySql -->
-    <img src="https://cdn.svgporn.com/logos/netlify.svg?response-content-disposition=attachment%3Bfilename%3Dnetlify.svg" alt="netlify" width="40" height="40" />
+    <img src="https://cdn.svgporn.com/logos/netlify.svg?response-content-disposition=attachment%3Bfilename%3Dnetlify.svg" alt="netlify" width="26" height="26" />
     <!-- Vite -->
     <img
     src="https://cdn.svgporn.com/logos/namecheap.svg?response-content-disposition=attachment%3Bfilename%3Dnamecheap.svg"
-    alt="namecheap" width="40" height="40" />
+    alt="namecheap" width="26" height="26" />
     <!-- Deno -->
     <img
     src="https://cdn.svgporn.com/logos/strapi-icon.svg?response-content-disposition=attachment%3Bfilename%3Dstrapi-icon.svg"
-    alt="strapi" width="40" height="40" />
+    alt="strapi" width="26" height="26" />
   </span>
 </p>
