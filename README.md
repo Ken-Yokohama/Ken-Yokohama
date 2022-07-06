@@ -2,7 +2,7 @@
 
 <h3 align="left">I'm a Civil Engineer | Software Engineer | Full Stack Developer!</h3>
 
--   :mortar_board: Licensed Engineer & DLSU Graduate
+-   :mortar_board: Licensed Civil Engineer & DLSU Graduate
 -   :telescope: Currently working on the Frontend of a private business
 -   :seedling: Always eager to learn new things
 -   :goal_net: 2022 Goals: Work on progressing my Backend, SEO, Web3 & Mobile Development knowledge
