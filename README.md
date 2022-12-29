@@ -3,9 +3,9 @@
 <h3 align="left">I'm a Civil Engineer | Software Engineer | Full Stack Developer!</h3>
 
 -   :mortar_board: Licensed Civil Engineer & DLSU Graduate
--   :telescope: Currently working on the Frontend of a private business
+-   :telescope: Currently working as a Software Engineer at [Yondu Inc.](https://www.yondu.com/)
 -   :seedling: Always eager to learn new things
--   :goal_net: 2022 Goals: Work on progressing my Backend, SEO, Web3 & Mobile Development knowledge
+-   :goal_net: 2023 Goals: Work on progressing my Backend, Web3 & Mobile Development knowledge
 -   :zap: Fun fact: I love to play piano and cook
 
 <h3>Connect with me:</h3>
@@ -33,29 +33,40 @@
     <img src="https://cdn.svgporn.com/logos/typescript-icon.svg?" alt="typescript" width="40" height="40"/>
     <!-- React -->
     <img src="https://cdn.svgporn.com/logos/react.svg?response-content-disposition=attachment%3Bfilename%3Dreact.svg" class="filter-green" alt="React" width="40" height="40"/>
+    <!-- Next.JS -->
+    <img
+    src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"
+    alt="nextjs" width="40" height="40"/>
     <!-- Node.js -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node.js" width="40" height="40"/>
     <!-- Firebase -->
     <img src="https://cdn.svgporn.com/logos/firebase.svg" alt="firebase" width="40" height="40"/>
     <!-- MongoDB -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongoDb" width="40" height="40"/>
-    <br></br>
     <!-- Material UI -->
     <img src="https://cdn.svgporn.com/logos/material-ui.svg?response-content-disposition=attachment%3Bfilename%3Dmaterial-ui.svg" alt="material ui" width="40" height="40"/>
-    <!-- Redux -->
-    <img src="https://cdn.svgporn.com/logos/redux.svg" alt="redux" width="40" height="40"/>
+        <!------------------------------------------------------------------ Line Break -------------------------------------------------------->
+    <br></br>
     <!-- Jest -->
     <img src="https://cdn.svgporn.com/logos/jest.svg" alt="jest" width="40" height="40" />
+    <!-- Redux -->
+    <img src="https://cdn.svgporn.com/logos/redux.svg" alt="redux" width="40" height="40"/>
+    <!-- Redux-Saga -->
+    <img src="https://cdn.svgporn.com/logos/redux-saga.svg" alt="redux-saga" width="40" height="40"/>
+    <!-- Sass -->
+    <img src="https://cdn.svgporn.com/logos/sass.svg" alt="sass" width="40" height="40"/>
     <!-- Tailwind -->
     <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
     <!-- Bootstrap -->
     <img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="bootstrap" width="40" height="40"/>
     <!-- Figma -->
     <img src="https://cdn.svgporn.com/logos/figma.svg" alt="figma" width="40" height="40"/>
-    <!-- VS Code -->
-    <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg?response-content-disposition=attachment%3Bfilename%3Dvisual-studio-code.svg" alt="visual studio code" width="40" height="40"/>
+    <!-- Figma -->
+    <img src="https://cdn.svgporn.com/logos/jira.svg" alt="jira" width="40" height="40"/>
     <!-- Git -->
     <img src="https://cdn.svgporn.com/logos/git-icon.svg?response-content-disposition=attachment%3Bfilename%3Dgit-icon.svg" alt="git" width="40" height="40"/>
+    <!-- Gitlab -->
+    <img src="https://cdn.svgporn.com/logos/gitlab.svg" alt="gitlab" width="40" height="40"/>
   </span>
 </p>
 
@@ -63,10 +74,6 @@
 
 <p>
   <span>
-    <!-- Next.JS -->
-    <img
-    src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"
-    alt="nextjs" width="40" height="40"/>
     <!-- Svelte -->
     <img
     src="https://cdn.svgporn.com/logos/svelte-icon.svg"
@@ -83,5 +90,17 @@
     <img
     src="https://cdn.svgporn.com/logos/deno.svg"
     alt="deno" width="40" height="40" />
+    <!-- Python -->
+    <img
+    src="https://cdn.svgporn.com/logos/python.svg"
+    alt="python" width="40" height="40" />
+    <!-- Django -->
+    <img
+    src="https://cdn.iconscout.com/icon/free/png-128/django-12-1175186.png"
+    alt="django" width="40" height="40" />
+    <!-- Postgresql -->
+    <img
+    src="https://cdn.svgporn.com/logos/postgresql.svg"
+    alt="postgresql" width="40" height="40" />
   </span>
 </p>
