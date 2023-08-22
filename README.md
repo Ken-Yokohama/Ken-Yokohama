@@ -34,9 +34,7 @@
     <!-- React -->
     <img src="https://cdn.svgporn.com/logos/react.svg?response-content-disposition=attachment%3Bfilename%3Dreact.svg" class="filter-green" alt="React" width="40" height="40"/>
     <!-- Next.JS -->
-    <img
-    src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"
-    alt="nextjs" width="40" height="40"/>
+    <img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextjs" width="40" height="40"/>
     <!-- Node.js -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node.js" width="40" height="40"/>
     <!-- Firebase -->
@@ -45,6 +43,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongoDb" width="40" height="40"/>
     <!-- Material UI -->
     <img src="https://cdn.svgporn.com/logos/material-ui.svg?response-content-disposition=attachment%3Bfilename%3Dmaterial-ui.svg" alt="material ui" width="40" height="40"/>
+    <!-- Vite -->
+    <img src="https://cdn.svgporn.com/logos/vitejs.svg" alt="Vite" width="40" height="40" />
+    <!-- Postgresql -->
+    <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="postgresql" width="40" height="40" />
+    <!-- Docker -->
+    <img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="docker" width="40" height="40" />
+    <!-- Electron -->
+    <img src="https://cdn.svgporn.com/logos/electron.svg" alt="electron" width="40" height="40" />
         <!------------------------------------------------------------------ Line Break -------------------------------------------------------->
     <br></br>
     <!-- Jest -->
@@ -55,18 +61,26 @@
     <img src="https://cdn.svgporn.com/logos/redux-saga.svg" alt="redux-saga" width="40" height="40"/>
     <!-- Sass -->
     <img src="https://cdn.svgporn.com/logos/sass.svg" alt="sass" width="40" height="40"/>
+    <!-- PostCSS -->
+    <img src="https://cdn.svgporn.com/logos/postcss.svg" alt="postcss" width="40" height="40"/>
     <!-- Tailwind -->
     <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
     <!-- Bootstrap -->
     <img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="bootstrap" width="40" height="40"/>
     <!-- Figma -->
     <img src="https://cdn.svgporn.com/logos/figma.svg" alt="figma" width="40" height="40"/>
-    <!-- Figma -->
+    <!-- Jira -->
     <img src="https://cdn.svgporn.com/logos/jira.svg" alt="jira" width="40" height="40"/>
+    <!-- Slack -->
+    <img src="https://cdn.svgporn.com/logos/slack-icon.svg" alt="slack" width="40" height="40" />
     <!-- Git -->
     <img src="https://cdn.svgporn.com/logos/git-icon.svg?response-content-disposition=attachment%3Bfilename%3Dgit-icon.svg" alt="git" width="40" height="40"/>
     <!-- Gitlab -->
     <img src="https://cdn.svgporn.com/logos/gitlab.svg" alt="gitlab" width="40" height="40"/>
+     <!-- Python -->
+    <img src="https://cdn.svgporn.com/logos/python.svg" alt="python" width="40" height="40" />
+    <!-- Django -->
+    <img src="https://cdn.iconscout.com/icon/free/png-128/django-12-1175186.png" alt="django" width="40" height="40" />
   </span>
 </p>
 
@@ -78,10 +92,6 @@
     <img
     src="https://cdn.svgporn.com/logos/svelte-icon.svg"
     alt="svelte" width="40" height="40" />
-    <!-- Vite -->
-    <img
-    src="https://cdn.svgporn.com/logos/vitejs.svg"
-    alt="Vite" width="40" height="40" />
     <!-- Vitest -->
     <img
     src="https://cdn.svgporn.com/logos/vitest.svg"
@@ -90,17 +100,17 @@
     <img
     src="https://cdn.svgporn.com/logos/deno.svg"
     alt="deno" width="40" height="40" />
-    <!-- Python -->
+    <!-- Rust -->
     <img
-    src="https://cdn.svgporn.com/logos/python.svg"
-    alt="python" width="40" height="40" />
-    <!-- Django -->
+    src="https://static-00.iconduck.com/assets.00/rust-icon-512x512-vx269b2s.png"
+    alt="rust" width="40" height="40" />
+    <!-- Flutter -->
     <img
-    src="https://cdn.iconscout.com/icon/free/png-128/django-12-1175186.png"
-    alt="django" width="40" height="40" />
-    <!-- Postgresql -->
+    src="https://cdn.svgporn.com/logos/flutter.svg"
+    alt="flutter" width="40" height="40" />
+    <!-- Go -->
     <img
-    src="https://cdn.svgporn.com/logos/postgresql.svg"
-    alt="postgresql" width="40" height="40" />
+    src="https://cdn.svgporn.com/logos/go.svg"
+    alt="go" width="40" height="40" />
   </span>
 </p>
